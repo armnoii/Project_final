@@ -1,0 +1,76 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.li h1{
+    font-size: 2rem;
+    color: #3b5998;
+    font-weight: bold;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.li{
+    display: flex;
+}
+
+.color{
+    width: 800px;
+    margin: 8%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    height: 500px;
+}
+
+.color2{
+    height: 600px;
+    width: 1000px;
+    background: url(./login.svg) no-repeat;
+    margin-top: 5%;
+}
+
+input{
+    display: flex;
+    margin-top: 0.6rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    width: 70%;
+    height: 40px;
+}
+
+Button{
+    margin-top: 1rem;
+    width: 70%;
+    height: 40px;
+}
+
+.ip{
+    margin-top: 2rem;
+    padding-left: 20%;
+}
+
+.ip2{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.ip3{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+.color a{
+    font-size: 0.8rem;
+    font-weight: bold;
+    
+}
+
+.color p{
+    font-size: 0.8rem;
+    /* font-weight: bold; */
+}
+
+a{
+    cursor: pointer;
+}
